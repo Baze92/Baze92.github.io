@@ -5,15 +5,18 @@
 /* Links */
 a,
 a:focus,
-a:hover {
-  color: #fff;
+a:link, a:visited {
+  text-decoration: none;
+  text-transform: none;
+  color: #fe6f5e;
+  font-weight: 800;
 }
 a:hover {
   color: #ffffff;
   -webkit-border-radius: 10px;
   -moz-border-radius: 10px;
-  border-radius: 10px;
-  background-color: #fc6304;
+  border-radius: 20px;
+  background-color: #fe6f5e;
   padding: 4px;
   margin: -4px;
 }
@@ -35,7 +38,7 @@ a:hover {
 html,
 body {
   height: 100%;
-  background-color: #000;
+  background-color: #333;
 }
 body {
   color: #fff;
