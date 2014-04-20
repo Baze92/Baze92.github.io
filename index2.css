@@ -93,15 +93,7 @@ body {
   border-bottom: 2px solid transparent;
 }
 .masthead-nav > li > a:hover,
-.masthead-nav > li > a:focus {
-  color: #ffffff;
-  -webkit-border-radius: 10px;
-  -moz-border-radius: 10px;
-  border-radius: 15px;
-  background-color: #fe6f5e;
-  padding: 4px;
-  margin: -4px;
-}
+
 .masthead-nav > .active > a,
 .masthead-nav > .active > a:hover,
 .masthead-nav > .active > a:focus {
