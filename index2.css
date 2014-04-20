@@ -97,8 +97,13 @@ body {
 .masthead-nav > .active > a,
 .masthead-nav > .active > a:hover,
 .masthead-nav > .active > a:focus {
-  color: #fff;
-  border-bottom-color: #fff;
+  color: #ffffff;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 15px;
+  background-color: #fe6f5e;
+  padding: 4px;
+  margin: -4px;
 }
 
 @media (min-width: 768px) {
