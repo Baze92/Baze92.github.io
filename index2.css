@@ -71,6 +71,7 @@ body {
   background-color: #333;*/
   background: url(images/bckg.png) fixed; 
   font-family: 'Dancing Script', cursive;
+  font-size: 150%;
 }
 body {
   color: #fff;
